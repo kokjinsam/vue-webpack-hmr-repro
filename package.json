@@ -1,0 +1,6 @@
+{
+  "name": "hmr-repro",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["client/apps/web-*"]
+}
